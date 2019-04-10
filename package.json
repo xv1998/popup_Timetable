@@ -1,0 +1,21 @@
+{
+  "name": "syllabus-mini-framework",
+  "version": "1.0.1",
+  "description": "",
+  "main": "/src/lib-别改里面代码/index.js",
+  "directories": {
+    "src/lib-别改里面代码": "src/lib-别改里面代码"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-alloy": "^1.4.2"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1"
+  }
+}
